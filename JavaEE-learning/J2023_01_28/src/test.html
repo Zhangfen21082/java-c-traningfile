@@ -5,14 +5,18 @@
     <title>Document</title>
 </head>
 <body>
-    <button>点击一下</button>
 
+    <h3 style="font-size: 20px">这是一行测试文字</h3>
 <script>
-    var test = document.querySelector("button");
-    test.onclick = function() {
-        console.log("按下鼠标")
-        alert("你好！");
+    var h3 = document.querySelector('h3');
+    h3.onclick = function() {
+        var oldSize = h3.style.fontSize;
+        oldSize = parseInt(oldSize);
+        oldSize += 10;
+        h3.style.fontSize = oldSize;
     }
+
+
 </script>
 
 </body>
