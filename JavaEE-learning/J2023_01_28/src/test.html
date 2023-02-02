@@ -5,19 +5,18 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="parent">
+        <div>11</div>
+        <div>22</div>
+        <div class="toDelete">33</div>
+    </div>
 
-    <h3 style="font-size: 20px">这是一行测试文字</h3>
 <script>
-    var h3 = document.querySelector('h3');
-    h3.onclick = function() {
-        var oldSize = h3.style.fontSize;
-        oldSize = parseInt(oldSize);
-        oldSize += 10;
-        h3.style.fontSize = oldSize;
-    }
-
-
+    var div =document.querySelector('.parent');
+    var toDelete = document.querySelector('.toDelete');
+    div.removeChild(toDelete)
 </script>
+
 
 </body>
 </html>

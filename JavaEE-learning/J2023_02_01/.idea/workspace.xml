@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37db0dd6-85cc-490e-b61b-574a819fe5eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.html" afterDir="false" />
+    <list default="true" id="27a78835-b28f-4966-b6c8-9e6d2817ee53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../J2023_01_28/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../J2023_01_28/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J2023_01_28/src/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../J2023_01_28/src/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +17,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -26,35 +26,38 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Kwkzy30noXH1SoSm1XZSaV7XZq" />
+  <component name="ProjectId" id="2L84x6cVVEFLZ30CSXlrA4tzT7x" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\BaiduSyncdisk\Java&amp;C++相关课件资料\java-c-traningfile\JavaEE-learning\J2023_02_01\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37db0dd6-85cc-490e-b61b-574a819fe5eb" name="Changes" comment="" />
-      <created>1674893304169</created>
+      <changelist id="27a78835-b28f-4966-b6c8-9e6d2817ee53" name="Changes" comment="" />
+      <created>1675239623230</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674893304169</updated>
-      <workItem from="1674893305854" duration="2843000" />
-      <workItem from="1675146838182" duration="7157000" />
-      <workItem from="1675235411452" duration="3505000" />
+      <updated>1675239623230</updated>
+      <workItem from="1675239624297" duration="3262000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ConfessionalWall</title>
+</head>
+<body>
+
+<style>
+  .container {
+    width: 400px;
+    /*水平居中*/
+    margin: 0 auto;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+    color: #808080;
+  }
+
+  .row {
+    height: 40px;
+    display: flex;
+    /*  水平居中*/
+    justify-content: center;
+    /*  垂直居中*/
+    align-items: center;
+  }
+
+  .row span {
+    width: 100px;
+  }
+
+  .row input {
+    width: 200px;
+    height: 25px;
+  }
+
+  .row button {
+    width: 310px;
+    height: 40px;
+    color:white;
+    background-color: orange;
+    border: none;
+
+  }
+  
+  .row button:active {
+    background-color: #666;
+  }
+
+
+</style>
+
+
+<div class="container">
+  <h1>表白墙</h1>
+  <p>（输入后点击下方按钮提交）</p>
+  <div class="row">
+    <span>姓名：</span><input type="text">
+  </div>
+
+  <div class="row">
+    <span>对谁：</span><input type="text">
+  </div>
+
+  <div class="row">
+    <span>内容：</span><input type="text">
+  </div>
+
+  <div class="row">
+    <button>提交</button>
+  </div>
+
+
+</div>
+
+
+
+</body>
+</html>
