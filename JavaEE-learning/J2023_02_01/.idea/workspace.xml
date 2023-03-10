@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27a78835-b28f-4966-b6c8-9e6d2817ee53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../J2023_01_28/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../J2023_01_28/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../J2023_01_28/src/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../J2023_01_28/src/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onfessionalWall.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/onfessionalWall.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,6 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1675239623230</updated>
       <workItem from="1675239624297" duration="3262000" />
+      <workItem from="1675569928067" duration="25000" />
+      <workItem from="1678448534691" duration="2364000" />
     </task>
     <servers />
   </component>

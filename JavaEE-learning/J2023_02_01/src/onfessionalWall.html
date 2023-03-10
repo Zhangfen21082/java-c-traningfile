@@ -79,6 +79,35 @@
 
 </div>
 
+<script>
+  var container = document.querySelector('.container');
+  var button = document.querySelector('button');
+  button.onclick = function () {
+    // 获取内容
+    var inputs = document.querySelectorAll('input');
+    var who = inputs[0].value;
+    var whom = inputs[1].value;
+    var content = inputs[2].value;
+    console.log(who);
+    console.log(who);
+    console.log(content);
+    if (who === '' || whom === '' || content === '') {
+      alert("有未填写项");
+      return;
+    }
+
+    // 构造出div生成发送内容
+    let newDiv = document.createElement('div');
+    newDiv.className = 'row';
+    newDiv.innerHTML = "【" + who + "】" + "对【" + whom + "】" + "说：" + content;
+    container.appendChild(newDiv);
+
+    // 清空之前输入
+    for (var i = 0; i < inputs.length; i++) {
+      inputs[i].value = '';
+    }
+  }
+</script>
 
 
 </body>
